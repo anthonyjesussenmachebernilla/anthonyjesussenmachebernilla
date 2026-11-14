@@ -208,7 +208,11 @@
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" title="Kubernetes" />&nbsp;&nbsp;
       <img width="38px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="Amazon Web Services (AWS)" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git" />&nbsp;&nbsp;
-      <img width="42px" src="https://raw.githubusercontent.com/anthonyjesussenmachebernilla/anthonyjesussenmachebernilla/main/assets/octocat.gif" alt="github" title="GitHub" />&nbsp;&nbsp;
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white" />
+        <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/github/181717" />
+        <img width="38px" src="https://cdn.simpleicons.org/github/white" alt="github" title="GitHub" />
+      </picture>&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" title="GitLab" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" title="Linux" />&nbsp;&nbsp;
       <img width="38px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="github-actions" title="CI/CD & GitHub Actions" />
