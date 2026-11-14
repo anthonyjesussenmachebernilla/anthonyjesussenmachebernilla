@@ -28,6 +28,12 @@ const GithubIcon = ({ className = "w-4 h-4" }: { className?: string }) => (
   </svg>
 );
 
+const LinkedinIcon = ({ className = "w-4 h-4" }: { className?: string }) => (
+  <svg className={className} fill="currentColor" viewBox="0 0 24 24">
+    <path d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h14m-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.28 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93h2.75M6.46 10.9v8.37H9.2V10.9H6.46M7.83 6.45a1.64 1.64 0 1 0 0 3.28 1.64 1.64 0 0 0 0-3.28z" />
+  </svg>
+);
+
 gsap.registerPlugin(ScrollTrigger, Draggable, TextPlugin);
 
 // Tech stack data for the interactive draggable playground
@@ -53,7 +59,7 @@ const projects = [
     tags: ['React', 'TypeScript', 'GSAP', 'Tailwind CSS', 'Vite'],
     category: 'Frontend',
     demoUrl: '#',
-    githubUrl: 'https://github.com/sbernillaanthon-2005/sbernillaanthon-2005',
+    githubUrl: 'https://github.com/anthonyjesussenmachebernilla/anthonyjesussenmachebernilla',
     featured: true,
   },
   {
@@ -62,7 +68,7 @@ const projects = [
     tags: ['Node.js', 'Express', 'PostgreSQL', 'TypeScript', 'Docker'],
     category: 'Full Stack',
     demoUrl: '#',
-    githubUrl: 'https://github.com/sbernillaanthon-2005',
+    githubUrl: 'https://github.com/anthonyjesussenmachebernilla',
     featured: true,
   },
   {
@@ -71,7 +77,7 @@ const projects = [
     tags: ['React', 'Tailwind CSS', 'GSAP', 'UI/UX'],
     category: 'UI/UX',
     demoUrl: '#',
-    githubUrl: 'https://github.com/sbernillaanthon-2005',
+    githubUrl: 'https://github.com/anthonyjesussenmachebernilla',
     featured: false,
   }
 ];
@@ -238,7 +244,7 @@ export default function App() {
   };
 
   const copyEmail = () => {
-    navigator.clipboard.writeText('sbernillaanthon@uss.edu.pe');
+    navigator.clipboard.writeText('anthonyjesussenmachebernilla@gmail.com');
     setCopied(true);
     setTimeout(() => setCopied(false), 2500);
   };
@@ -280,13 +286,24 @@ export default function App() {
 
         <div className="flex items-center gap-3">
           <a 
-            href="https://github.com/sbernillaanthon-2005" 
+            href="https://github.com/anthonyjesussenmachebernilla" 
             target="_blank" 
             rel="noreferrer"
             className="p-2.5 rounded-xl bg-white/5 hover:bg-white/10 text-slate-300 hover:text-white border border-white/10 transition-all flex items-center gap-2 text-sm"
+            title="GitHub"
           >
             <GithubIcon className="w-4 h-4" />
             <span className="hidden sm:inline">GitHub</span>
+          </a>
+          <a 
+            href="https://www.linkedin.com/in/anthony-jes%C3%BAs-senmache-bernilla-a0bb02391" 
+            target="_blank" 
+            rel="noreferrer"
+            className="p-2.5 rounded-xl bg-[#0A66C2]/15 hover:bg-[#0A66C2]/25 text-cyan-300 hover:text-white border border-[#0A66C2]/30 transition-all flex items-center gap-2 text-sm"
+            title="LinkedIn"
+          >
+            <LinkedinIcon className="w-4 h-4" />
+            <span className="hidden sm:inline">LinkedIn</span>
           </a>
           <a 
             href="#contact"
@@ -652,21 +669,21 @@ export default function App() {
               Actividad en GitHub en Tiempo Real
             </h2>
             <p className="text-slate-400 text-sm">
-              Métricas sincronizadas automáticamente desde mi perfil <span className="text-cyan-400 font-mono">@sbernillaanthon-2005</span>
+              Métricas sincronizadas automáticamente desde mi perfil <span className="text-cyan-400 font-mono">@anthonyjesussenmachebernilla</span>
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6 max-w-4xl mx-auto">
             <div className="stat-card glass-panel p-6 rounded-3xl border border-white/5 flex items-center justify-center overflow-hidden">
               <img 
-                src="https://github-readme-stats.vercel.app/api?username=sbernillaanthon-2005&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00f2fe&icon_color=00f2fe&text_color=94a3b8" 
+                src="https://github-readme-stats.vercel.app/api?username=anthonyjesussenmachebernilla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00f2fe&icon_color=00f2fe&text_color=94a3b8" 
                 alt="GitHub Stats" 
                 className="w-full max-w-md h-auto"
               />
             </div>
             <div className="stat-card glass-panel p-6 rounded-3xl border border-white/5 flex items-center justify-center overflow-hidden">
               <img 
-                src="https://github-readme-streak-stats.herokuapp.com/?user=sbernillaanthon-2005&theme=tokyonight&hide_border=true&background=00000000&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" 
+                src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyjesussenmachebernilla&theme=tokyonight&hide_border=true&background=00000000&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" 
                 alt="GitHub Streak" 
                 className="w-full max-w-md h-auto"
               />
@@ -692,11 +709,21 @@ export default function App() {
 
           <div className="flex flex-wrap items-center justify-center gap-4 pt-2">
             <a 
-              href="mailto:sbernillaanthon@uss.edu.pe"
+              href="mailto:anthonyjesussenmachebernilla@gmail.com"
               className="px-6 py-3.5 rounded-2xl bg-gradient-to-r from-cyan-500 to-blue-600 hover:from-cyan-400 hover:to-blue-500 text-slate-950 font-bold text-sm shadow-xl shadow-cyan-500/30 flex items-center gap-2 transition-transform hover:scale-105"
             >
               <Mail className="w-4 h-4" />
               <span>Enviar un Correo</span>
+            </a>
+
+            <a 
+              href="https://www.linkedin.com/in/anthony-jes%C3%BAs-senmache-bernilla-a0bb02391"
+              target="_blank"
+              rel="noreferrer"
+              className="px-6 py-3.5 rounded-2xl bg-[#0A66C2]/20 hover:bg-[#0A66C2]/30 text-white font-bold text-sm border border-[#0A66C2]/40 flex items-center gap-2 transition-transform hover:scale-105"
+            >
+              <LinkedinIcon className="w-4 h-4 text-cyan-400" />
+              <span>Conectar en LinkedIn</span>
             </a>
 
             <button
@@ -711,7 +738,7 @@ export default function App() {
               ) : (
                 <>
                   <Copy className="w-4 h-4 text-slate-400" />
-                  <span>sbernillaanthon@uss.edu.pe</span>
+                  <span>anthonyjesussenmachebernilla@gmail.com</span>
                 </>
               )}
             </button>

@@ -7,7 +7,7 @@
   <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif" width="100%">
 
   <!-- ==================== DYNAMIC TYPING SVG ==================== -->
-  <a href="https://github.com/sbernillaanthon-2005">
+  <a href="https://github.com/anthonyjesussenmachebernilla">
     <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=700&size=21&duration=2500&pause=900&color=00F2FE&center=true&vCenter=true&width=750&lines=%E2%96%B6%20Hola%2C%20soy%20Jes%C3%BAs%20Senmache%20%F0%9F%91%8B;%E2%96%B6%20Estudiante%20de%20Ingenier%C3%ADa%20de%20Sistemas%20%F0%9F%92%BB;%E2%96%B6%20Full%20Stack%20Software%20Developer%20%F0%9F%9A%80;%E2%96%B6%20Frontend%3A%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Tailwind%20%F0%9F%8E%A8;%E2%96%B6%20Backend%3A%20Node.js%20%E2%80%A2%20NestJS%20%E2%80%A2%20Express%20%E2%80%A2%20Python%20%E2%80%A2%20Java%20%E2%9A%A1;%E2%96%B6%20Mobile%3A%20React%20Native%20%E2%80%A2%20Expo%20Go%20%F0%9F%93%B1;%E2%96%B6%20BD%3A%20PostgreSQL%20%E2%80%A2%20MySQL%20%E2%80%A2%20SQL%20Server%20%E2%80%A2%20MongoDB%20%E2%80%A2%20Redis%20%F0%9F%97%84%EF%B8%8F;%E2%96%B6%20DevOps%20%26%20Cloud%3A%20Docker%20%E2%80%A2%20Linux%20%E2%80%A2%20CI%2FCD%20%F0%9F%90%B3;%E2%96%B6%20Microservices%20%E2%80%A2%20WebSockets%20%E2%80%A2%20JWT%20%E2%80%A2%20OAuth%202.0%20%F0%9F%94%90;%E2%96%B6%20IA%20%26%20Ciberseguridad%20%F0%9F%A4%96" alt="Typing SVG" />
   </a>
 
@@ -15,7 +15,7 @@
 
   <!-- ==================== METRICS & STATUS BADGES ==================== -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=sbernillaanthon-2005&label=PROFILE+VIEWS&style=for-the-badge&color=007acc" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=anthonyjesussenmachebernilla&label=PROFILE+VIEWS&style=for-the-badge&color=007acc" alt="Profile Views" />
     <img src="https://img.shields.io/badge/STATUS-OPEN_TO_WORK-00f2fe?style=for-the-badge&logo=statuspal&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/LOCATION-CHICLAYO%2C_PERU-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/CAMPUS-USS_PERU-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Campus" />
@@ -23,10 +23,10 @@
 
   <!-- ==================== CALL TO ACTION ==================== -->
   <p align="center">
-    <a href="mailto:sbernillaanthon@uss.edu.pe">
+    <a href="mailto:anthonyjesussenmachebernilla@gmail.com">
       <img src="https://img.shields.io/badge/Contactar_por_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://github.com/sbernillaanthon-2005">
+    <a href="https://github.com/anthonyjesussenmachebernilla">
       <img src="https://img.shields.io/badge/GitHub_Perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
@@ -41,9 +41,9 @@
   ### 🐍 Contribution Activity Snake Game
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sbernillaanthon-2005/sbernillaanthon-2005/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sbernillaanthon-2005/sbernillaanthon-2005/output/github-contribution-grid-snake.svg" />
-    <img alt="Anthony's Contribution Snake Game" src="https://raw.githubusercontent.com/sbernillaanthon-2005/sbernillaanthon-2005/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anthonyjesussenmachebernilla/anthonyjesussenmachebernilla/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anthonyjesussenmachebernilla/anthonyjesussenmachebernilla/output/github-contribution-grid-snake.svg" />
+    <img alt="Anthony's Contribution Snake Game" src="https://raw.githubusercontent.com/anthonyjesussenmachebernilla/anthonyjesussenmachebernilla/output/github-contribution-grid-snake.svg" />
   </picture>
 
 </div>
@@ -173,7 +173,7 @@
       <br/><br/>
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" title="Docker" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git" />&nbsp;&nbsp;
-      <img width="42px" src="https://raw.githubusercontent.com/sbernillaanthon-2005/sbernillaanthon-2005/main/assets/octocat.gif" alt="github" title="GitHub" />&nbsp;&nbsp;
+      <img width="42px" src="https://raw.githubusercontent.com/anthonyjesussenmachebernilla/anthonyjesussenmachebernilla/main/assets/octocat.gif" alt="github" title="GitHub" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" title="Linux" />&nbsp;&nbsp;
       <img width="38px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="github-actions" title="CI/CD & GitHub Actions" />
     </kbd>
@@ -220,18 +220,18 @@
   <table border="0">
     <tr>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sbernillaanthon-2005&theme=tokyonight" alt="GitHub Stats" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyjesussenmachebernilla&theme=tokyonight" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://streak-stats.demolab.com/?user=sbernillaanthon-2005&theme=tokyonight&border=00f2fe&border_radius=12&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak" />
+        <img src="https://streak-stats.demolab.com/?user=anthonyjesussenmachebernilla&theme=tokyonight&border=00f2fe&border_radius=12&background=0d1117&ring=00f2fe&fire=00f2fe&currStreakLabel=00f2fe" alt="GitHub Streak" />
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sbernillaanthon-2005&theme=tokyonight" alt="Top Languages by Commits" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anthonyjesussenmachebernilla&theme=tokyonight" alt="Top Languages by Commits" />
       </td>
       <td align="center">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sbernillaanthon-2005&theme=tokyonight" alt="Top Languages by Repos" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anthonyjesussenmachebernilla&theme=tokyonight" alt="Top Languages by Repos" />
       </td>
     </tr>
   </table>
@@ -259,7 +259,7 @@
       <p>Portafolio web inmersivo desarrollado con <b>React, TypeScript, GSAP y Tailwind CSS v4</b>. Incluye un laboratorio de físicas con <b>GSAP Draggable</b>, efecto de inclinación 3D en tarjetas y microinteracciones de nivel comercial.</p>
       <p align="center">
         <a href="./portfolio"><b>📂 Explorar Código Local</b></a> • 
-        <a href="https://github.com/sbernillaanthon-2005/sbernillaanthon-2005"><b>🌐 Ver en GitHub</b></a>
+        <a href="https://github.com/anthonyjesussenmachebernilla/anthonyjesussenmachebernilla"><b>🌐 Ver en GitHub</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -271,7 +271,7 @@
       </p>
       <p>Servidor backend y cliente escalable con autenticación cifrada, arquitectura por capas, validación rigurosa de entradas y consultas SQL optimizadas con PostgreSQL.</p>
       <p align="center">
-        <a href="https://github.com/sbernillaanthon-2005"><b>🚀 Ver Repositorio</b></a>
+        <a href="https://github.com/anthonyjesussenmachebernilla"><b>🚀 Ver Repositorio</b></a>
       </p>
     </td>
   </tr>
@@ -306,20 +306,20 @@
 
   <br/>
 
-  <a href="mailto:sbernillaanthon@uss.edu.pe?subject=Hola%20Anthony,%20me%20gustar%C3%ADa%20conversar%20sobre%20un%20proyecto!">
+  <a href="mailto:anthonyjesussenmachebernilla@gmail.com?subject=Hola%20Anthony,%20me%20gustar%C3%ADa%20conversar%20sobre%20un%20proyecto!">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=" alt="Gmail" />
   </a>
-  <a href="https://github.com/sbernillaanthon-2005" target="_blank">
+  <a href="https://github.com/anthonyjesussenmachebernilla" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/anthony-jes%C3%BAs-senmache-bernilla-a0bb02391" target="_blank">
     <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" alt="LinkedIn" />
   </a>
 
   <br/><br/>
 
   <!-- OCTOCAT ANIMATION -->
-  <img src="https://raw.githubusercontent.com/sbernillaanthon-2005/sbernillaanthon-2005/main/assets/GitHub-logo.gif" width="115px" alt="Pixel Octocat" />
+  <img src="https://raw.githubusercontent.com/anthonyjesussenmachebernilla/anthonyjesussenmachebernilla/main/assets/GitHub-logo.gif" width="115px" alt="Pixel Octocat" />
 
   <br/><br/>
 
