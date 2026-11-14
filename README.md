@@ -60,23 +60,52 @@
 
 ```typescript
 /**
- * Representación del Desarrollador
- * 
- * @author Anthony Jesús Senmache Bernilla
- * @role Estudiante de Ingeniería de Sistemas | Full Stack Developer
- * @location Chiclayo, Lambayeque - Perú 🇵🇪
- * @university Universidad Señor de Sipán (USS)
- * 
- * @frontend ["HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS", "Bootstrap", "jQuery", "AJAX", "GSAP", "Figma"]
- * @backend ["PHP", "Python", "Java", "C#", "Node.js", "NestJS", "Express.js", "REST APIs", "MVC"]
- * @mobile ["React Native", "Expo Go"]
- * @databases ["MySQL", "SQL Server", "PostgreSQL", "MongoDB", "Redis"]
- * @devops ["Docker", "Kubernetes", "AWS", "Git", "GitHub", "GitLab", "Linux", "CI/CD"]
- * @tools ["Postman", "DBeaver", "VS Code", "Prisma", "TypeORM"]
- * @architecture ["JWT", "OAuth 2.0", "WebSockets", "Microservices"]
- * @passions ["Inteligencia Artificial", "Ciberseguridad", "Arquitecturas Escalables"]
- * 
- * @returns {Engineer} Preparado para construir tecnología de alto calibre.
+ * ═══════════════════════════════════════════════════════════════
+ *                   👨‍💻 ABOUT ME | DEVELOPER PROFILE
+ * ═══════════════════════════════════════════════════════════════
+ *
+ * 👋 ¡Hola, mundo! Soy Anthony Jesús Senmache Bernilla.
+ *
+ * @role       💻 Full Stack Developer | Software Engineer
+ * @education  🎓 Ingeniería de Sistemas
+ * @university 🏛️ Universidad Señor de Sipán (USS)
+ * @location   📍 Chiclayo, Lambayeque - Perú 🇵🇪
+ *
+ * ─────────────────────── TECH STACK ───────────────────────────
+ *
+ * @frontend      [HTML5, CSS3, JavaScript, TypeScript, React,
+ *                 Next.js, Tailwind CSS, Bootstrap, jQuery, AJAX, GSAP, Figma]
+ *
+ * @backend       [PHP, Python, Java, C#, Node.js, NestJS,
+ *                 Express.js, Rust, REST APIs]
+ *
+ * @mobile        [React Native, Expo Go]
+ *
+ * @databases     [MySQL, SQL Server, PostgreSQL, MongoDB, Redis]
+ *
+ * @devops        [Docker, Kubernetes, AWS, Git, GitHub,
+ *                 GitLab, Linux, CI/CD]
+ *
+ * @tools         [VS Code, Postman, DBeaver, Prisma, TypeORM]
+ *
+ * @architecture  [MVC, REST, JWT, OAuth 2.0, WebSockets,
+ *                 Microservices, Clean Architecture]
+ *
+ * ───────────────────── BEYOND THE CODE ────────────────────────
+ *
+ * @interests  🤖 Inteligencia Artificial | 🔐 Ciberseguridad
+ *             ☁️ Cloud Computing | 🚀 Sistemas Escalables
+ *
+ * @mission    Transformar ideas en soluciones digitales
+ *             innovadoras, seguras, eficientes y escalables.
+ *
+ * @mindset    "Code. Create. Innovate. Repeat."
+ *
+ * @status     🟢 Always learning, always building.
+ *
+ * @returns    {SoftwareEngineer} Building the future with code 🚀
+ *
+ * ═══════════════════════════════════════════════════════════════
  */
 ```
 
