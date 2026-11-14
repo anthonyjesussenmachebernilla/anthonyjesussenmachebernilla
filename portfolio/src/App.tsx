@@ -48,6 +48,10 @@ const draggableTechs = [
   { name: 'Express.js', bg: 'from-zinc-500/20 to-neutral-500/20', border: 'border-zinc-400/40', text: 'text-zinc-300', icon: '⚡' },
   { name: 'Docker', bg: 'from-sky-600/20 to-blue-700/20', border: 'border-sky-400/40', text: 'text-sky-300', icon: '🐳' },
   { name: 'Git & GitHub', bg: 'from-orange-500/20 to-red-500/20', border: 'border-orange-500/40', text: 'text-orange-400', icon: '🐙' },
+  { name: 'GitLab', bg: 'from-orange-600/20 to-amber-600/20', border: 'border-orange-500/40', text: 'text-orange-300', icon: '🦊' },
+  { name: 'Kubernetes', bg: 'from-blue-600/20 to-indigo-600/20', border: 'border-blue-400/40', text: 'text-blue-300', icon: '☸️' },
+  { name: 'AWS Cloud', bg: 'from-amber-500/20 to-yellow-500/20', border: 'border-amber-400/40', text: 'text-amber-300', icon: '☁️' },
+  { name: 'Figma UI/UX', bg: 'from-pink-500/20 to-purple-500/20', border: 'border-pink-400/40', text: 'text-pink-300', icon: '🎨' },
   { name: 'REST APIs', bg: 'from-purple-500/20 to-pink-500/20', border: 'border-purple-500/40', text: 'text-purple-400', icon: '🔌' },
   { name: 'Vite', bg: 'from-violet-500/20 to-amber-500/20', border: 'border-violet-400/40', text: 'text-violet-300', icon: '⚡' }
 ];
@@ -555,13 +559,13 @@ export default function App() {
                 <Terminal className="w-6 h-6" />
               </div>
               <div className="space-y-2">
-                <h3 className="text-xl font-bold text-white">Herramientas & Flujo</h3>
+                <h3 className="text-xl font-bold text-white">DevOps, Cloud & Herramientas</h3>
                 <p className="text-slate-400 text-sm leading-relaxed">
-                  Control de versiones con Git, contenedores Docker, pruebas de endpoints con Postman y buenas prácticas.
+                  Control de versiones con Git/GitLab, contenedores Docker, orquestación Kubernetes, AWS Cloud y diseño Figma.
                 </p>
               </div>
               <div className="flex flex-wrap gap-2 pt-2">
-                {['Git & GitHub', 'Docker', 'Postman', 'VS Code', 'npm / pnpm', 'Linux CLI'].map(skill => (
+                {['Git & GitHub', 'GitLab', 'Docker', 'Kubernetes', 'AWS', 'Figma', 'Postman', 'VS Code', 'Linux CLI'].map(skill => (
                   <span key={skill} className="px-3 py-1 rounded-lg bg-white/5 border border-white/10 text-xs font-mono text-slate-300">
                     {skill}
                   </span>

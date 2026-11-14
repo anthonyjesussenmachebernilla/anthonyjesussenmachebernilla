@@ -67,11 +67,11 @@
  * @location Chiclayo, Lambayeque - Perú 🇵🇪
  * @university Universidad Señor de Sipán (USS)
  * 
- * @frontend ["HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS", "Bootstrap", "jQuery", "AJAX", "GSAP"]
+ * @frontend ["HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Next.js", "Tailwind CSS", "Bootstrap", "jQuery", "AJAX", "GSAP", "Figma"]
  * @backend ["PHP", "Python", "Java", "C#", "Node.js", "NestJS", "Express.js", "REST APIs", "MVC"]
  * @mobile ["React Native", "Expo Go"]
  * @databases ["MySQL", "SQL Server", "PostgreSQL", "MongoDB", "Redis"]
- * @devops ["Docker", "Git", "GitHub", "Linux", "CI/CD"]
+ * @devops ["Docker", "Kubernetes", "AWS", "Git", "GitHub", "GitLab", "Linux", "CI/CD"]
  * @tools ["Postman", "DBeaver", "VS Code", "Prisma", "TypeORM"]
  * @architecture ["JWT", "OAuth 2.0", "WebSockets", "Microservices"]
  * @passions ["Inteligencia Artificial", "Ciberseguridad", "Arquitecturas Escalables"]
@@ -121,7 +121,8 @@
       <img width="38px" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="ajax" title="AJAX" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="gsap" title="GSAP GreenSock" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" alt="vite" title="Vite" />&nbsp;&nbsp;
-      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" title="Redux Toolkit" />
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="redux" title="Redux Toolkit" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="Figma (UI/UX Design)" />
     </kbd>
   </p>
 
@@ -175,8 +176,11 @@
       <kbd><b>🐳 DevOps, Cloud & CI/CD</b></kbd>
       <br/><br/>
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" title="Docker" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" title="Kubernetes" />&nbsp;&nbsp;
+      <img width="38px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" title="Amazon Web Services (AWS)" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" title="Git" />&nbsp;&nbsp;
       <img width="42px" src="https://raw.githubusercontent.com/anthonyjesussenmachebernilla/anthonyjesussenmachebernilla/main/assets/octocat.gif" alt="github" title="GitHub" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="gitlab" title="GitLab" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" title="Linux" />&nbsp;&nbsp;
       <img width="38px" src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" alt="github-actions" title="CI/CD & GitHub Actions" />
     </kbd>
@@ -185,9 +189,10 @@
   <!-- Herramientas & Entorno -->
   <p>
     <kbd>
-      <kbd><b>🛠️ Herramientas de Desarrollo</b></kbd>
+      <kbd><b>🛠️ Herramientas de Desarrollo & Diseño</b></kbd>
       <br/><br/>
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" title="VS Code" />&nbsp;&nbsp;
+      <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" title="Figma" />&nbsp;&nbsp;
       <img width="38px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" title="Postman" />&nbsp;&nbsp;
       <img width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="dbeaver" title="DBeaver" />
     </kbd>
