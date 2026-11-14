@@ -44,9 +44,9 @@
   ### 🐍 Contribution Activity Snake Game
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anthonyjesussenmachebernilla/anthonyjesussenmachebernilla/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anthonyjesussenmachebernilla/anthonyjesussenmachebernilla/output/github-contribution-grid-snake.svg" />
-    <img alt="Anthony's Contribution Snake Game" src="https://raw.githubusercontent.com/anthonyjesussenmachebernilla/anthonyjesussenmachebernilla/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake Game" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/output/github-contribution-grid-snake.svg" />
   </picture>
 
 </div>
